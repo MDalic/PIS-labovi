@@ -3,12 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace laboratorjske_vjezbe_1
-{
-    class NewClass
+{//change 1
+    class Class1
     {
-        void EmptyMethod()
-        {
-        }
     }
-    
 }
