@@ -4,7 +4,11 @@ using System.Text;
 
 namespace laboratorjske_vjezbe_1
 {
-    class Class1
+    class NewClass
     {
+        void EmptyMethod()
+        {
+        }
     }
+    
 }
